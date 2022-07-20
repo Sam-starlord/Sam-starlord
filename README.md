@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sam-starlord {Soumya Ranjan Behera : SAM}.
-- 👀 I’m interested in Data. Currently working as a Senior software engineer in Tech M.
-- 🌱 I’m currently learning AWS, Data Science and React
+- 👀 I’m interested in Data. Currently working as a SDE At Siemens.
+- 🌱 I’m currently learning AWS, Data Science and React.
 - 💞️ I’m looking to collaborate on Data Science related projects. 
 - 📫 How to reach me Email: SoumyaRb.15@gmail.com. 
 
